@@ -1,9 +1,10 @@
 # UserLookUp
 
+This is a React-based web application designed for user authentication and management. It allows users to log in securely and manage user data. The app features a clean and responsive UI, ensuring a smooth experience across devices. Built with React Router v6, it provides seamless navigation and efficient state management. Deployed on Vercel, it ensures fast and reliable performance.
 
 ## Tech Stack
 
- HTML, Material ui, REACT
+ - HTML, Material ui, REACT
 
 ## Features
 
