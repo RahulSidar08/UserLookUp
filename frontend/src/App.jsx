@@ -16,6 +16,12 @@ const appRouter = createBrowserRouter([
     </div>
   },
   {
+    path : "signup",
+    element : <div>
+      <Signup/>
+    </div>
+  },
+  {
     path : "/users",
     element : <div>
       <ProtectedRoute>

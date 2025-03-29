@@ -76,7 +76,7 @@ export const Signup = () => {
         <Grid container justifyContent="center" sx={{ mt: 2 }}>
           <Grid item>
             <Link
-              to="/login"
+              to="/"
               style={{ textDecoration: "none", color: "#1976d2" }}
             >
               Already have an account? Login
