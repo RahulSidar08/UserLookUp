@@ -7,10 +7,11 @@
 
 ## Features
 
-- Authentication: Secure login, signup, and protected routes.
+- Authentication: Secure login and protected routes.
 - User Management: View, edit, and delete users.
 - Routing: Client-side navigation with React Router v6.
 - esponsive UI: Mobile-friendly design using Material UI
+- Implement client-side search and filtering on the users' list.
 - Deployment: Hosted on Vercel with auto-deployment.
 
 ## Installation & Setup
