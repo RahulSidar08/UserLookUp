@@ -22,7 +22,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/RahulSidar08/UserLookUp.git  
 ```
-## Run in your local machine
+## Run in your local system
 
 ```bash
 cd frontend  
