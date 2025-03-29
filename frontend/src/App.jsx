@@ -16,7 +16,7 @@ const appRouter = createBrowserRouter([
     </div>
   },
   {
-    path : "signup",
+    path : "/signup",
     element : <div>
       <Signup/>
     </div>
@@ -41,8 +41,6 @@ const appRouter = createBrowserRouter([
 ])
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
     <div>
