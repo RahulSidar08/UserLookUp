@@ -4,7 +4,7 @@ This is a React-based web application designed for user authentication and manag
 
 ## Tech Stack
 
- - HTML, Material ui, REACT
+ - HTML, Material UI, REACT
 
 ## Features
 
