@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 
-🌐 Live 
+🌐 Live Demo
 
 ```bash
 https://user-look-up.vercel.app/
